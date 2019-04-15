@@ -1,0 +1,14 @@
+{
+  "name": "xclap-soe-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "xclap": "^0.2.30"
+  }
+}
